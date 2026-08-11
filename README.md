@@ -1,5 +1,4 @@
-
-         <style>
+ <style>
         :root {
             --primary: #8b263e;
             --secondary: #2c2c2c;
@@ -207,6 +206,13 @@
                     <p>an affordable, quick seaside escape with rustic charm, calm sea breezes, and a peaceful break from city noise.</p>
                 </div>
             </div>
+            <div class="card">
+                <img src="https://primer.com.ph/travel/wp-content/uploads/sites/6/2017/11/peoples-park-Cavite-Provincial-Government.jpg">
+                <div class="card-body">
+                    <h3>People's Park in the Sky</h3>
+                    <p>People's Park in the Sky is a historic mountaintop park in Tagaytay, Cavite, Philippines. Sitting atop Mount Sungay at 709 meters high, it offers a cool climate and a 360-degree view of Taal Lake, Taal Volcano, and nearby provinces. Entrance costs around ₱50 for adults</p>
+                </div>
+            </div>
         </div>
     </main>
 
@@ -219,5 +225,8 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 Group 4. Kasaysayan</p>
+        <p>&copy; 2026 Group 4.</p>
     </footer>
+
+
+</body>
