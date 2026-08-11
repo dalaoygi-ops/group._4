@@ -1,4 +1,5 @@
-<img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/8132c1b8-92cf-43cc-bb8a-b99a5f43d596" /> <style>
+<body>
+         <style>
         :root {
             --primary: #8b263e;
             --secondary: #2c2c2c;
@@ -211,16 +212,7 @@
                 <div class="card-body">
                     <h3>People's Park in the Sky</h3>
                     <p>People's Park in the Sky is a historic mountaintop park in Tagaytay, Cavite, Philippines. Sitting atop Mount Sungay at 709 meters high, it offers a cool climate and a 360-degree view of Taal Lake, Taal Volcano, and nearby provinces. Entrance costs around ₱50 for adults</p>
-                    
                 </div>
-                 <div class="card">
-                <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKT1L5JcpgukdLqnhQMN82ETrSoFNJFoEtkTBQnadfc5GcLdfDPgqH-Br&s=10" alt="Ternate](https://lakbaypinas.com/wp-content/uploads/2025/04/Snapins.ai_362665446_18346410004079746_1828968906067385421_n_1080.jpg)">
-                <div class="card-body">
-                    <h3>Tagaytay Picnic Grove</h3>
-                    <p>Tagaytay Picnic Grove is a stunning, breezy hilltop park in Cavite offering a majestic, postcard-worthy view of Taal Lake and Volcano. With an affordable entrance fee of around ₱50, it is a vibrant, family-friendly haven blending cool mountain air, lush green spaces, and fun outdoor adventures.</p>
-                </div>
-            </div>
-            <div class="card">
             </div>
         </div>
     </main>
@@ -236,6 +228,3 @@
     <footer>
         <p>&copy; 2026 Group 4. Kasaysayan</p>
     </footer>
-
-
-</body>
